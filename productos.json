@@ -1,0 +1,117 @@
+{
+    "cursos": [{
+            "id": 1,
+            "tipo": "Curso",
+            "nombre": "Taller de Oralidad y Escritura",
+            "precio": "ARS$ 1500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (1).png",
+            "descripcion": "DURACION UN MES UNA CLASE POR SEMANA",
+            "pagina": "TallerEscyOr.html",
+            "cursoDestacado": true
+        },
+        {
+            "id": 2,
+            "tipo": "Curso",
+            "nombre": "First Certificate in English - FCE",
+            "precio": "ARS$ 3000",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (2).png",
+            "descripcion": "FIRST CERTIFICATE IN ENGLISH",
+            "pagina": "fce.html ",
+            "cursoDestacado": true
+        },
+        {
+            "id": 3,
+            "tipo": "Curso",
+            "nombre": "Intesive I",
+            "precio": "ARS$ 3500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (3).png",
+            "descripcion": "Educacion dedicada intensiva",
+            "pagina": "intensiveI.html",
+            "cursoDestacado": true
+        },
+        {
+            "id": 4,
+            "tipo": "Curso",
+            "nombre": "Third Adults",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (4).png",
+            "descripcion": "De 7 a 11 años",
+            "pagina": "3rdAdult.html",
+            "cursoDestacado": true
+        },
+        {
+            "id": 5,
+            "tipo": "Curso",
+            "nombre": "Second Teens",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (5).png",
+            "descripcion": "desde 12 Años",
+            "pagina": "2ndTeens.html",
+            "cursoDestacado": true
+        },
+        {
+            "id": 6,
+            "tipo": "Curso",
+            "nombre": "First Children",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (6).png",
+            "descripcion": "2 veces a la semana",
+            "pagina": "1stChildren.html",
+            "cursoDestacado": true
+        },
+        {
+            "id": 7,
+            "tipo": "Curso",
+            "nombre": "Kinder y Pre-Children",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/kinder and pre children foto.jpg",
+            "descripcion": "Edad 4 a 6 años",
+            "cursoDestacado": false
+        },
+        {
+            "id": 8,
+            "tipo": "Curso",
+            "nombre": "Children por Nivel",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/childrenCurso.jpg",
+            "descripcion": "De 7 a 11 años,2 veces a la semana",
+            "cursoDestacado": false
+        },
+        {
+            "id": 9,
+            "tipo": "Curso",
+            "nombre": "Adolescentes por Nivel",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/teens.png",
+            "descripcion": "Disponibilidad s consultar",
+            "cursoDestacado": false
+        },
+        {
+            "id": 10,
+            "tipo": "Curso",
+            "nombre": "Ingles para Adultos",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/cursosAdultosok.png",
+            "descripcion": "2 veces a la semana (incluye conversación)",
+            "cursoDestacado": false
+        },
+        {
+            "id": 11,
+            "tipo": "Curso",
+            "nombre": "Ingles Tecnico Bussines",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/conversacionTecnica.jpg",
+            "descripcion": "Para profesionales o estudiantes",
+            "cursoDestacado": false
+        },
+        {
+            "id": 12,
+            "tipo": "Curso",
+            "nombre": "First Certificate In English",
+            "precio": "ARS$ 2500",
+            "imagen": "../TrabajoPracticoTaller1Grupo7/img/first foto.jpg",
+            "descripcion": "3 veces a la semana",
+            "cursoDestacado": false
+        }
+    ]
+}
