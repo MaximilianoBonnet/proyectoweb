@@ -4,7 +4,7 @@ function validar() {
     if (usuario == '' || Contrasena == '') {
         alert('Debe ingresar un usuario y contraseña');
     } else {
-        let url = "../TrabajoPracticoTaller1Grupo7/credenciales.json";
+        let url = "../proyectoweb/credenciales.json";
         $.getJSON(url, function(data) {
                 console.log(data);
                 sha256(Contrasena).then(function(respuestaHasheada) {

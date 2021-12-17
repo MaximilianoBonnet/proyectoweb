@@ -66,27 +66,7 @@ body {
     background-color: rgba(180, 170, 157, 0.664);
 }
 
-.quienes-somos {
-    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-    color: #0a0900;
-    font-size: 18px;
-    font-weight: 400;
-    text-align: center;
-    background: #FCFFA6;
-    margin: 0 0 25px;
-    overflow: hidden;
-    padding: 20px;
-    border-radius: 35px 0px 35px 0px;
-    -moz-border-radius: 35px 0px 35px 0px;
-    -webkit-border-radius: 35px 0px 35px 0px;
-    border: 2px solid #000103;
-}
-
-.body-QuienesSomos {
-    background-color: rgba(180, 170, 157, 0.664);
-}
-
-.body-inscripcion {
+.body-contacto {
     background-color: rgba(180, 170, 157, 0.664);
 }
 
@@ -115,7 +95,7 @@ body {
     color: rgba(0, 0, 0, 0.5);
 }
 
-.titleQuienesSomos {
+.titleProductos {
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     color: #f6f8f8;
     font-size: 18px;
@@ -131,7 +111,7 @@ body {
     border: 2px solid #010511;
 }
 
-.american-british {
+.virgin-gaming {
     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     color: #fbffff;
     font-size: 20px;

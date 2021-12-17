@@ -1,115 +1,115 @@
 {
-    "cursos": [{
+    "productos": [{
             "id": 1,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Taller de Oralidad y Escritura",
             "precio": "ARS$ 1500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (1).png",
+            "imagen": "../proyectoweb/imagenes/productos/PRODUCTO (1).jpg",
             "descripcion": "DURACION UN MES UNA CLASE POR SEMANA",
             "pagina": "TallerEscyOr.html",
             "cursoDestacado": true
         },
         {
             "id": 2,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "First Certificate in English - FCE",
             "precio": "ARS$ 3000",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (2).png",
+            "imagen": "../proyectoweb/imagenes/productos/PRODUCTO (2).jpeg",
             "descripcion": "FIRST CERTIFICATE IN ENGLISH",
             "pagina": "fce.html ",
             "cursoDestacado": true
         },
         {
             "id": 3,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Intesive I",
             "precio": "ARS$ 3500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (3).png",
+            "imagen": "../proyectoweb/imagenes/productos/PRODUCTO (3).jpg",
             "descripcion": "Educacion dedicada intensiva",
             "pagina": "intensiveI.html",
             "cursoDestacado": true
         },
         {
             "id": 4,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Third Adults",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (4).png",
+            "imagen": "../proyectoweb/imagenes/productos/PRODUCTO (4).jpg",
             "descripcion": "De 7 a 11 años",
             "pagina": "3rdAdult.html",
             "cursoDestacado": true
         },
         {
             "id": 5,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Second Teens",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (5).png",
+            "imagen": "..../proyectoweb/imagenes/productos/PRODUCTO (5).jpg",
             "descripcion": "desde 12 Años",
             "pagina": "2ndTeens.html",
             "cursoDestacado": true
         },
         {
             "id": 6,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "First Children",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/Cursos/CURSOS (6).png",
+            "imagen": "../proyectoweb/imagenes/productos/PRODUCTO (6).jpg",
             "descripcion": "2 veces a la semana",
             "pagina": "1stChildren.html",
             "cursoDestacado": true
         },
         {
             "id": 7,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Kinder y Pre-Children",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/kinder and pre children foto.jpg",
+            "imagen": "../imagenes/counterstrike.jpg",
             "descripcion": "Edad 4 a 6 años",
             "cursoDestacado": false
         },
         {
             "id": 8,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Children por Nivel",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/childrenCurso.jpg",
+            "imagen": "../imagenes/ds2.jpg",
             "descripcion": "De 7 a 11 años,2 veces a la semana",
             "cursoDestacado": false
         },
         {
             "id": 9,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Adolescentes por Nivel",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/teens.png",
+            "imagen": "../imagenes/valheim.jpg",
             "descripcion": "Disponibilidad s consultar",
             "cursoDestacado": false
         },
         {
             "id": 10,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Ingles para Adultos",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/cursosAdultosok.png",
+            "imagen": "../imagenes/elderscrolls-min.jpg",
             "descripcion": "2 veces a la semana (incluye conversación)",
             "cursoDestacado": false
         },
         {
             "id": 11,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "Ingles Tecnico Bussines",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/conversacionTecnica.jpg",
+            "imagen": "../imagenes/elderscrolls-min.jpg",
             "descripcion": "Para profesionales o estudiantes",
             "cursoDestacado": false
         },
         {
             "id": 12,
-            "tipo": "Curso",
+            "tipo": "Producto",
             "nombre": "First Certificate In English",
             "precio": "ARS$ 2500",
-            "imagen": "../TrabajoPracticoTaller1Grupo7/img/first foto.jpg",
+            "imagen": "../imagenes/elderscrolls-min.jpg",
             "descripcion": "3 veces a la semana",
             "cursoDestacado": false
         }
